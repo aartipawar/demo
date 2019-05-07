@@ -1,0 +1,5 @@
+
+*.pyc
+app/__init__.pyc
+app/tasks/migrations/*
+
